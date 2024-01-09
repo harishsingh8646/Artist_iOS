@@ -40,8 +40,5 @@ public class RegisterTest extends ArtistAppBase {
         registerPage.getOTPValue(emailSignup);
 
     }
-
-
-
-
+    
 }
